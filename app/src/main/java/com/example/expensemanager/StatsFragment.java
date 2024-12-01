@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-
+ 
 import android.util.Log;
 import android.util.Pair;
 import android.view.LayoutInflater;
