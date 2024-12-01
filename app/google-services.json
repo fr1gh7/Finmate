@@ -4,7 +4,7 @@
     "project_id": "expense-manager-a5d66",
     "storage_bucket": "expense-manager-a5d66.appspot.com"
   },
-  "client": [
+  "client": [ 
     {
       "client_info": {
         "mobilesdk_app_id": "1:217563121313:android:8dc4113adf56682e6e52e0",
